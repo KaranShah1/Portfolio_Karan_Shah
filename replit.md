@@ -111,3 +111,4 @@ Preferred communication style: Simple, everyday language.
 
 Changelog:
 - July 06, 2025. Initial setup
+- July 06, 2025. Replaced external GitHub-hosted project images with professional Unsplash stock photos for better presentation and reliability

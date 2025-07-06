@@ -59,7 +59,7 @@ const GreenProsperity = () => {
                 </p>
 
                 <img 
-                  src="https://karanshah1.github.io/Portfolio/images/intro_dashboard.jpg" 
+                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
                   alt="Introduction Dashboard" 
                   className="w-full h-64 object-cover rounded-lg mb-8"
                 />

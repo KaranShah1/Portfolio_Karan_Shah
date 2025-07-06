@@ -35,7 +35,7 @@ const GestationalDiabetes = () => {
               </div>
 
               <img 
-                src="https://karanshah1.github.io/Portfolio/images/mycontractions.webp" 
+                src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1289&q=80" 
                 alt="Gestational Diabetes ML Project" 
                 className="w-full h-64 object-cover rounded-lg mb-8"
               />

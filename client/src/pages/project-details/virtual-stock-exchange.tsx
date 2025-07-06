@@ -35,7 +35,7 @@ const VirtualStockExchange = () => {
               </div>
 
               <img 
-                src="https://karanshah1.github.io/Portfolio/images/VSE_dashboard.jpg" 
+                src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
                 alt="Virtual Stock Exchange Dashboard" 
                 className="w-full h-64 object-cover rounded-lg mb-8"
               />
@@ -79,7 +79,7 @@ const VirtualStockExchange = () => {
 
                 <h2 className="text-2xl font-bold text-gray-900 mb-4">Portfolio Performance</h2>
                 <img 
-                  src="https://karanshah1.github.io/Portfolio/images/portfolio_performance.jpg" 
+                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
                   alt="Portfolio Performance Chart" 
                   className="w-full h-64 object-cover rounded-lg mb-6"
                 />
@@ -96,7 +96,7 @@ const VirtualStockExchange = () => {
 
                 <h2 className="text-2xl font-bold text-gray-900 mb-4">My Portfolio & Strategy</h2>
                 <img 
-                  src="https://karanshah1.github.io/Portfolio/images/player-portfolio.JPG" 
+                  src="https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" 
                   alt="Final Portfolio Holdings" 
                   className="w-full h-64 object-cover rounded-lg mb-6"
                 />
