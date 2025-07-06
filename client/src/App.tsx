@@ -13,9 +13,6 @@ import MovieRecommendation from "@/pages/project-details/movie-recommendation";
 import GreenProsperity from "@/pages/project-details/green-prosperity";
 import DataTechSpecialist from "@/pages/role-details/data-tech-specialist";
 import DataAnalyst from "@/pages/role-details/data-analyst";
-import TaekwondoBlackBelt from "@/pages/achievement-details/taekwondo-black-belt";
-import CajonPercussionist from "@/pages/achievement-details/cajon-percussionist";
-import AiesecLeadership from "@/pages/achievement-details/aiesec-leadership";
 
 function Router() {
   return (
